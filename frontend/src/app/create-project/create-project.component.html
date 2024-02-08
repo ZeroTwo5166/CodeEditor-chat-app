@@ -1,0 +1,41 @@
+<div class="fixed inset-0 flex items-center justify-center bg-gray-800 bg-opacity-75">
+    <div class="bg-white shadow-md rounded p-4 w-1/5">
+      <h2 class="text-xl font-semibold mb-4">Create Project</h2>
+      <div class="mb-4">
+        <label for="projectTitle" class="block text-sm font-medium text-gray-600">Project Title</label>
+        <input
+          type="text"
+          id="projectTitle"
+          [(ngModel)]="projectTitle"
+          name="projectTitle"
+          class="mt-1 p-2 border rounded-md w-full"
+          placeholder="Enter project title"
+        />
+      </div>
+      <div class="mb-4">
+        <label for="room" class="block text-sm font-medium text-gray-600">Room</label>
+        <input
+          type="text"
+          id="room"
+          [(ngModel)]="room"
+          name="room"
+          class="mt-1 p-2 border rounded-md w-full"
+          placeholder="Enter room"
+        />
+      </div>
+      <div class="flex justify-end">
+        <button
+          class="bg-blue-500 text-white px-4 py-2 mr-2 rounded"
+          (click)="createRoom()"
+        >
+          Create
+        </button>
+        <button
+          class="bg-gray-300 text-gray-700 px-4 py-2 rounded"
+          (click)="closeDialog()"
+        >
+          Exit
+        </button>
+      </div>
+    </div>
+  </div>

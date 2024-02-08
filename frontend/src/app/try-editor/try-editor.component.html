@@ -1,0 +1,16 @@
+<div *ngIf="showTryEditor" class="overflow-hidden flex h-screen bg-gray-100 flex-col items-center justify-center">
+    <div id="scene-container"></div>
+    <div class="mt-20px text-center">
+      <h1 class="text-4xl font-bold mb-6">Try Our Code Editor</h1>
+      <p class="text-gray-600 mb-8">
+        Experience the power of our advanced code editor. Write and share code with your friends with real time synchronization and chat system.
+      </p>
+      <button
+        class="px-6 py-3 bg-blue-500 hover:bg-blue-6showTryCodeEditor00 text-white rounded-full focus:outline-none focus:shadow-outline-blue"
+        (click)="switchToEditor()"
+        >
+        Try It Now
+      </button>
+    </div>
+  </div>
+  

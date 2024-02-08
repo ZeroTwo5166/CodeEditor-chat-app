@@ -1,0 +1,6 @@
+<input placeholder="username" [(ngModel)]="username"/>
+<input placeholder="password" [(ngModel)]="password"/>
+
+<h1>AM I SIGNED IN?</h1><p>{{isLoggedIn ? "YES" : "NO"}}</p>
+<button (click)="loginBtn()">Login</button><br/>
+<button (click)="logOut()">LogOut</button>

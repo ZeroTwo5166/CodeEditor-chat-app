@@ -1,0 +1,316 @@
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\appsettings.json
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\backend.exe
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\backend.deps.json
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\backend.runtimeconfig.json
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\backend.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\backend.pdb
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\Humanizer.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\obj\Debug\net8.0\backend.csproj.AssemblyReference.cache
+C:\Users\subar\Desktop\finalProject\backend\backend\obj\Debug\net8.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\subar\Desktop\finalProject\backend\backend\obj\Debug\net8.0\backend.AssemblyInfoInputs.cache
+C:\Users\subar\Desktop\finalProject\backend\backend\obj\Debug\net8.0\backend.AssemblyInfo.cs
+C:\Users\subar\Desktop\finalProject\backend\backend\obj\Debug\net8.0\backend.csproj.CoreCompileInputs.cache
+C:\Users\subar\Desktop\finalProject\backend\backend\obj\Debug\net8.0\backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\subar\Desktop\finalProject\backend\backend\obj\Debug\net8.0\backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\subar\Desktop\finalProject\backend\backend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\subar\Desktop\finalProject\backend\backend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\subar\Desktop\finalProject\backend\backend\obj\Debug\net8.0\staticwebassets\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\subar\Desktop\finalProject\backend\backend\obj\Debug\net8.0\staticwebassets\msbuild.build.backend.props
+C:\Users\subar\Desktop\finalProject\backend\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.backend.props
+C:\Users\subar\Desktop\finalProject\backend\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.backend.props
+C:\Users\subar\Desktop\finalProject\backend\backend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\subar\Desktop\finalProject\backend\backend\obj\Debug\net8.0\scopedcss\bundle\backend.styles.css
+C:\Users\subar\Desktop\finalProject\backend\backend\obj\Debug\net8.0\backend.csproj.CopyComplete
+C:\Users\subar\Desktop\finalProject\backend\backend\obj\Debug\net8.0\backend.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\obj\Debug\net8.0\refint\backend.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\obj\Debug\net8.0\backend.pdb
+C:\Users\subar\Desktop\finalProject\backend\backend\obj\Debug\net8.0\backend.genruntimeconfig.cache
+C:\Users\subar\Desktop\finalProject\backend\backend\obj\Debug\net8.0\ref\backend.dll
+C:\Users\subar\Desktop\finalProject\backend\backend\obj\Debug\net8.0\backend.sourcelink.json
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\appsettings.json
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\backend.exe
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\backend.deps.json
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\backend.runtimeconfig.json
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\backend.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\backend.pdb
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\obj\Debug\net8.0\backend.csproj.AssemblyReference.cache
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\obj\Debug\net8.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\obj\Debug\net8.0\backend.AssemblyInfoInputs.cache
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\obj\Debug\net8.0\backend.AssemblyInfo.cs
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\obj\Debug\net8.0\backend.csproj.CoreCompileInputs.cache
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\obj\Debug\net8.0\backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\obj\Debug\net8.0\backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\obj\Debug\net8.0\backend.sourcelink.json
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\obj\Debug\net8.0\staticwebassets\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\obj\Debug\net8.0\staticwebassets\msbuild.build.backend.props
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.backend.props
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.backend.props
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\obj\Debug\net8.0\scopedcss\bundle\backend.styles.css
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\obj\Debug\net8.0\backend.csproj.CopyComplete
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\obj\Debug\net8.0\backend.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\obj\Debug\net8.0\refint\backend.dll
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\obj\Debug\net8.0\backend.pdb
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\obj\Debug\net8.0\backend.genruntimeconfig.cache
+C:\Users\Tec\Desktop\06-02\finalProject\backend\backend\obj\Debug\net8.0\ref\backend.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\appsettings.Development.json
+E:\lastEdit\backend\backend\bin\Debug\net8.0\appsettings.json
+E:\lastEdit\backend\backend\bin\Debug\net8.0\backend.exe
+E:\lastEdit\backend\backend\bin\Debug\net8.0\backend.deps.json
+E:\lastEdit\backend\backend\bin\Debug\net8.0\backend.runtimeconfig.json
+E:\lastEdit\backend\backend\bin\Debug\net8.0\backend.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\backend.pdb
+E:\lastEdit\backend\backend\bin\Debug\net8.0\Azure.Core.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\Azure.Identity.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\Humanizer.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\System.CodeDom.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\System.Memory.Data.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\lastEdit\backend\backend\obj\Debug\net8.0\backend.csproj.AssemblyReference.cache
+E:\lastEdit\backend\backend\obj\Debug\net8.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+E:\lastEdit\backend\backend\obj\Debug\net8.0\backend.AssemblyInfoInputs.cache
+E:\lastEdit\backend\backend\obj\Debug\net8.0\backend.AssemblyInfo.cs
+E:\lastEdit\backend\backend\obj\Debug\net8.0\backend.csproj.CoreCompileInputs.cache
+E:\lastEdit\backend\backend\obj\Debug\net8.0\backend.MvcApplicationPartsAssemblyInfo.cs
+E:\lastEdit\backend\backend\obj\Debug\net8.0\backend.MvcApplicationPartsAssemblyInfo.cache
+E:\lastEdit\backend\backend\obj\Debug\net8.0\staticwebassets.build.json
+E:\lastEdit\backend\backend\obj\Debug\net8.0\staticwebassets.development.json
+E:\lastEdit\backend\backend\obj\Debug\net8.0\staticwebassets\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+E:\lastEdit\backend\backend\obj\Debug\net8.0\staticwebassets\msbuild.build.backend.props
+E:\lastEdit\backend\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.backend.props
+E:\lastEdit\backend\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.backend.props
+E:\lastEdit\backend\backend\obj\Debug\net8.0\staticwebassets.pack.json
+E:\lastEdit\backend\backend\obj\Debug\net8.0\scopedcss\bundle\backend.styles.css
+E:\lastEdit\backend\backend\obj\Debug\net8.0\backend.csproj.CopyComplete
+E:\lastEdit\backend\backend\obj\Debug\net8.0\backend.dll
+E:\lastEdit\backend\backend\obj\Debug\net8.0\refint\backend.dll
+E:\lastEdit\backend\backend\obj\Debug\net8.0\backend.pdb
+E:\lastEdit\backend\backend\obj\Debug\net8.0\backend.genruntimeconfig.cache
+E:\lastEdit\backend\backend\obj\Debug\net8.0\ref\backend.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\Castle.Core.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\Moq.dll
+E:\lastEdit\backend\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\appsettings.Development.json
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\appsettings.json
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\backend.exe
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\backend.deps.json
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\backend.runtimeconfig.json
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\backend.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\backend.pdb
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\Azure.Core.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\Azure.Identity.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\Castle.Core.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\Humanizer.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\Moq.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\System.CodeDom.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Presentation\Draft backend security\backend\backend\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Presentation\Draft backend security\backend\backend\obj\Debug\net8.0\backend.csproj.AssemblyReference.cache
+E:\Presentation\Draft backend security\backend\backend\obj\Debug\net8.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+E:\Presentation\Draft backend security\backend\backend\obj\Debug\net8.0\backend.AssemblyInfoInputs.cache
+E:\Presentation\Draft backend security\backend\backend\obj\Debug\net8.0\backend.AssemblyInfo.cs
+E:\Presentation\Draft backend security\backend\backend\obj\Debug\net8.0\backend.csproj.CoreCompileInputs.cache
+E:\Presentation\Draft backend security\backend\backend\obj\Debug\net8.0\backend.MvcApplicationPartsAssemblyInfo.cs
+E:\Presentation\Draft backend security\backend\backend\obj\Debug\net8.0\backend.MvcApplicationPartsAssemblyInfo.cache
+E:\Presentation\Draft backend security\backend\backend\obj\Debug\net8.0\staticwebassets.build.json
+E:\Presentation\Draft backend security\backend\backend\obj\Debug\net8.0\staticwebassets.development.json
+E:\Presentation\Draft backend security\backend\backend\obj\Debug\net8.0\staticwebassets\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Presentation\Draft backend security\backend\backend\obj\Debug\net8.0\staticwebassets\msbuild.build.backend.props
+E:\Presentation\Draft backend security\backend\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.backend.props
+E:\Presentation\Draft backend security\backend\backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.backend.props
+E:\Presentation\Draft backend security\backend\backend\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Presentation\Draft backend security\backend\backend\obj\Debug\net8.0\scopedcss\bundle\backend.styles.css
+E:\Presentation\Draft backend security\backend\backend\obj\Debug\net8.0\backend.csproj.CopyComplete
+E:\Presentation\Draft backend security\backend\backend\obj\Debug\net8.0\backend.dll
+E:\Presentation\Draft backend security\backend\backend\obj\Debug\net8.0\refint\backend.dll
+E:\Presentation\Draft backend security\backend\backend\obj\Debug\net8.0\backend.pdb
+E:\Presentation\Draft backend security\backend\backend\obj\Debug\net8.0\backend.genruntimeconfig.cache
+E:\Presentation\Draft backend security\backend\backend\obj\Debug\net8.0\ref\backend.dll

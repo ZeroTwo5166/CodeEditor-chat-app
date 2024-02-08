@@ -1,0 +1,16 @@
+<div>
+    <label for="themeSelect">Select a theme:</label>
+    <select id="themeSelect" [(ngModel)]="selectedThemeKey" (change)="onThemeChange()">
+      <option *ngFor="let themeKey of getObjectKeys(this.aceThemes)" [value]="themeKey">{{ themeKey }}</option>
+    </select>
+
+    <label for="langaugeSelect">Select a langauge:</label>
+    <select id="langaugeSelect" [(ngModel)]="selectedLanguageKey" (change)="onLanguageChange()">
+        <option *ngFor="let languageKey of getObjectKeys(this.aceLanguages)" [value]="languageKey">{{ languageKey }}</option>
+    </select>
+    <button (click)="leavegroup()">Leave</button>
+    <button (click)="sendCode()">SendDataToSQL</button>
+</div>
+  
+  <div class="app-ace-editor" id="editor" style="width: 1000px; height: 500px;"></div>
+  

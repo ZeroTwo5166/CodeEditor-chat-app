@@ -1,0 +1,279 @@
+<div class="min-h-screen relative">
+  <!-- Change background options -->
+  <div class="absolute pds right-0 m-4 text-white">
+    <input
+      class="color1"
+      type="color"
+      name="color1"
+      (input)="setColor1($event)"
+      [value]="color1"
+    />
+    <input
+      class="color2"
+      type="color"
+      name="color2"
+      (input)="setColor2($event)"
+      [value]="color2"
+    />
+  </div>
+
+  <!-- Content Section -->
+  <div
+    class="min-h-screen flex flex-col justify-center py-12 sm:px-6 lg:px-8"
+    [ngStyle]="{
+      background: 'linear-gradient(to right, ' + color1 + ',' + color2 + ')'
+    }"
+  >
+    <!-- Image and Title Section -->
+    <div class="sm:mx-auto sm:w-full sm:max-w-md">
+      <img
+        class="mx-auto h-10 w-auto"
+        src="https://www.svgrepo.com/show/301692/login.svg"
+        alt="Workflow"
+      />
+      <h2
+        class="mt-6 text-center text-3xl leading-9 font-extrabold text-gray-900"
+      >
+        Create a new account
+      </h2>
+      <p class="mt-2 text-center text-sm leading-5 text-gray-500 max-w">
+        Or
+        <a
+          routerLink="/login"
+          class="font-medium text-blue-600 hover:text-blue-500 focus:outline-none focus:underline transition ease-in-out duration-150"
+        >
+          login to your account
+        </a>
+      </p>
+    </div>
+
+    <!-- Form Section -->
+    <div class="mt-8 sm:mx-auto sm:w-full sm:max-w-md">
+      <div class="bg-white py-8 px-4 shadow sm:rounded-lg sm:px-10">
+        <form [formGroup]="signupForm" (ngSubmit)="register()">
+          <!-- Username Input -->
+          <div>
+            <label
+              for="email"
+              class="block text-sm font-medium leading-5 text-gray-700"
+              >Username</label
+            >
+            <div class="mt-1 relative rounded-md shadow-sm">
+              <input
+                id="name"
+                formControlName="username"
+                name="name"
+                placeholder="John Doe"
+                [ngClass]="{
+                  error:
+                    getControl('username')?.errors &&
+                    getControl('username')?.touched
+                }"
+                type="text"
+                class="appearance-none block w-full px-3 py-2 border border-gray-300 rounded-md placeholder-gray-400 focus:outline-none focus:shadow-outline-blue focus:border-blue-300 transition duration-150 ease-in-out sm:text-sm sm:leading-5"
+              />
+              <div
+                *ngIf="
+                  getControl('username')?.errors &&
+                  getControl('username')?.touched
+                "
+              >
+                <small
+                  class="text-red-500"
+                  *ngIf="getControl('username')?.errors?.['required']"
+                  >Username is required</small
+                >
+              </div>
+            </div>
+          </div>
+
+          <!-- Email Input -->
+          <div class="mt-6">
+            <label
+              for="email"
+              class="block text-sm font-medium leading-5 text-gray-700"
+              >Email address</label
+            >
+            <div class="mt-1 relative rounded-md shadow-sm">
+              <input
+                id="email"
+                name="email"
+                placeholder="user@example.com"
+                type="email"
+                formControlName="email"
+                [ngClass]="{
+                  error:
+                    getControl('email')?.errors && getControl('email')?.touched
+                }"
+                class="appearance-none block w-full px-3 py-2 border border-gray-300 rounded-md placeholder-gray-400 focus:outline-none focus:shadow-outline-blue focus:border-blue-300 transition duration-150 ease-in-out sm:text-sm sm:leading-5"
+              />
+              <div
+                class="text-red-500"
+                *ngIf="
+                  signupForm.get('email')?.hasError('required') &&
+                  signupForm.get('email')?.touched
+                "
+              >
+                <small>Email is required</small>
+              </div>
+              <div
+                class="text-red-500"
+                *ngIf="
+                  signupForm.get('email')?.value != '' &&
+                  signupForm.get('email')?.hasError('invalidEmail') &&
+                  signupForm.get('email')?.touched
+                "
+              >
+                <small>Invalid email format</small>
+              </div>
+            </div>
+          </div>
+
+          <!-- Profile Picture Input -->
+          <div class="mt-6">
+            <label
+              for="profilePic"
+              class="block text-sm font-medium leading-5 text-gray-700"
+              >Profile Picture</label
+            >
+            <div class="mt-1 relative rounded-md shadow-sm">
+              <input
+                id="profilePic"
+                name="profilePic"
+                type="file"
+                accept="image/*"
+                (change)="handleProfilePicChange($event)"
+                class="appearance-none block w-full px-3 py-2 border border-gray-300 rounded-md placeholder-gray-400 focus:outline-none focus:shadow-outline-blue focus:border-blue-300 transition duration-150 ease-in-out sm:text-sm sm:leading-5"
+              />
+              <!-- Profile Picture Preview -->
+              <div *ngIf="profilePicPreview" class="flex items-center mt-2">
+                <img
+                  [src]="profilePicPreview"
+                  alt="Profile Preview"
+                  class="rounded-full h-12 w-12 object-cover"
+                />
+              </div>
+              <!-- End of Profile Picture Preview -->
+            </div>
+          </div>
+
+          <!-- Password Input -->
+          <div class="mt-6">
+            <label
+              for="password"
+              class="block text-sm font-medium leading-5 text-gray-700"
+              >Password</label
+            >
+            <div class="mt-1 rounded-md shadow-sm relative">
+              <input
+                id="password"
+                name="password"
+                placeholder="**********"
+                type="password"
+                #passwordInput1
+                formControlName="password"
+                [ngClass]="{
+                  error:
+                    getControl('password')?.errors &&
+                    getControl('password')?.touched
+                }"
+                class="appearance-none block w-full px-3 py-2 border border-gray-300 rounded-md placeholder-gray-400 focus:outline-none focus:shadow-outline-blue focus:border-blue-300 transition duration-150 ease-in-out sm:text-sm sm:leading-5"
+              />
+              <div
+                *ngIf="
+                  getControl('password')?.errors &&
+                  getControl('password')?.touched
+                "
+              >
+                <small
+                  class="text-red-500"
+                  *ngIf="getControl('password')?.errors?.['required']"
+                  >Password is required</small
+                >
+                <small
+                  class="text-red-500"
+                  *ngIf="getControl('password')?.errors?.['minlength']"
+                  >Password should be minimum 8 characters</small
+                >
+              </div>
+              <div
+                class="text-red-500"
+                *ngIf="signupForm.errors?.['passwordMismatchError'] && signupForm.get('confirmPassword')?.touched"
+              >
+                <small>Passwords do not match </small>
+              </div>
+              <div class="eye-icon-container">
+                <div
+                  *ngIf="passwordRevealed1"
+                  class="eye-icon show-password"
+                  (click)="togglePasswordVisibilityOne(passwordInput1)"
+                ></div>
+                <div
+                  *ngIf="!passwordRevealed1"
+                  class="eye-icon hide-password"
+                  (click)="togglePasswordVisibilityOne(passwordInput1)"
+                ></div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Confirm Password Input -->
+          <div class="mt-6">
+            <label
+              for="password_confirmation"
+              class="block text-sm font-medium leading-5 text-gray-700"
+              >Confirm Password</label
+            >
+            <div class="mt-1 rounded-md shadow-sm relative">
+              <input
+                id="password_confirmation"
+                placeholder="**********"
+                name="password_confirmation"
+                type="password"
+                #passwordInput2
+                formControlName="confirmPassword"
+                [ngClass]="{
+                  error:
+                    getControl('confirmPassword')?.errors &&
+                    getControl('confirmPassword')?.touched
+                }"
+                class="appearance-none block w-full px-3 py-2 border border-gray-300 rounded-md placeholder-gray-400 focus:outline-none focus:shadow-outline-blue focus:border-blue-300 transition duration-150 ease-in-out sm:text-sm sm:leading-5"
+              />
+              <div class="eye-icon-container">
+                <div
+                  *ngIf="passwordRevealed2"
+                  class="eye-icon show-password"
+                  (click)="togglePasswordVisibilityTwo(passwordInput2)"
+                ></div>
+                <div
+                  *ngIf="!passwordRevealed2"
+                  class="eye-icon hide-password"
+                  (click)="togglePasswordVisibilityTwo(passwordInput2)"
+                ></div>
+              </div>
+              <div
+                class="text-red-500"
+                *ngIf="signupForm.errors?.['passwordMismatchError'] && signupForm.get('confirmPassword')?.touched"
+              >
+                <small>Passwords do not match</small>
+              </div>
+            </div>
+          </div>
+
+          <!-- Submit Button -->
+          <div class="mt-6">
+            <span class="block w-full rounded-md shadow-sm">
+              <button
+                type="submit"
+                [disabled]="signupForm.invalid"
+                class="w-full flex justify-center py-2 px-4 border border-transparent text-sm font-medium rounded-md text-white bg-blue-600 hover:bg-blue-500 focus:outline-none focus:border-indigo-700 focus:shadow-outline-indigo active:bg-indigo-700 transition duration-150 ease-in-out"
+              >
+                Create account
+              </button>
+            </span>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,25 @@
+.eye-icon-container {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    cursor: pointer;
+}
+  
+.eye-icon {
+    width: 24px;
+    height: 24px;
+    background-size: cover;
+}
+  
+.show-password {
+    background-image: url('../../assets/eye-on.svg');
+}
+  
+.hide-password {
+    background-image: url('../../assets/eye-off.svg');
+}
+
+.error {
+    border: 1px solid red;
+}

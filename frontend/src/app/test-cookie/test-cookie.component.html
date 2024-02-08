@@ -1,0 +1,25 @@
+<!-- image-upload.component.html 
+  <input type="file" (change)="handleFileInput($event)"/>
+  <input type="file" (change)="onFileSelected($event)" />
+  
+  <button (click)="onUpload()">Upload Image</button>
+  <input type="text" />
+  
+  
+  <div>
+    <img style="height: 100px;" *ngIf="imageDataUrl" [src]="imageDataUrl" alt="Image"/>
+  </div>
+-->
+
+<div>
+  <label for="emailInput">Enter Email:</label>
+  <input type="text" id="emailInput" [(ngModel)]="userName" />
+  <button (click)="retrieve()">Retrieveeeeeeeee</button>
+</div>
+<div>
+  <button (click)="getUserBtn()">GetUser</button>
+</div>
+
+<div *ngIf="imageDataURL">
+  <img [src]="imageDataURL" alt="User Image" />
+</div>

@@ -1,0 +1,97 @@
+<div class="container mx-auto mt-8">
+  <!-- Heading in the middle of the top -->
+  <h1 class="text-3xl font-semibold text-center mb-4">Your App Heading</h1>
+
+  <!-- Top navigation with create button, search bar, and join button -->
+  <div class="flex justify-between items-center mb-4">
+    <!-- Create button with icon on the left -->
+    <button class="bg-green-500 text-white px-4 py-2 flex items-center" (click)="createOptions()">
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor"
+        class="h-5 w-5 mr-2">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+          d="M12 6v6m0 0v6m0-6h6m-6 0H6"></path>
+      </svg>
+      Create
+    </button>
+
+    <!-- Search bar in the middle -->
+    <input type="search" [(ngModel)]="searchQuery" placeholder="Search..." class="border border-gray-300 px-4 py-2 rounded-md flex-1">
+
+    <!-- Join button with icon on the right -->
+    <button class="bg-blue-500 text-white px-4 py-2 flex items-center" (click)="joinOptions()">
+      Join
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor"
+        class="h-5 w-5 ml-2">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+          d="M17 13v6a2 2 0 0 1-2 2H9a2 2 0 0 1-2-2v-6m0-2h10m4 0a6 6 0 0 1-12 0m4 0v-4m4 4v-4"></path>
+      </svg>
+    </button>
+  </div>
+
+  <!-- Table to loop through an array and display project names with edit and delete buttons -->
+  <table class="w-full border border-gray-300">
+    <thead>
+      <tr>
+        <th class="py-2 px-4 bg-gray-200 text-left">Project Title</th>
+        <th class="py-2 px-4 bg-gray-200 text-right">Actions</th>      
+      </tr>
+    </thead>
+    <tbody>
+
+      <!-- Replace this with *ngFor loop to iterate over your project array -->
+      <tr *ngFor="let project of projects | filter:searchQuery">
+        <td class="py-2 px-4 border-b border-gray-300">{{ project.projectName }}</td>
+        <td class="py-2 px-4 border-b border-gray-300 text-right">
+          <!-- Edit and Delete buttons with icons -->
+          <button class="text-blue-500 ml-2" (click)="edit(project)">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor"
+              class="h-5 w-5">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path>
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M2 6L10 6"></path>
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M6 9L18 9"></path>
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M4 14L12 14"></path>
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M10 18L4 18"></path>
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M21 21L15 21"></path>
+            </svg>
+          </button>
+          <button class="text-red-500 ml-2" (click)="delete(project)">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor"
+              class="h-5 w-5">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M6 18L18 6M6 6l12 12"></path>
+            </svg>
+          </button>
+        </td>
+      </tr>
+
+
+      <!-- Repeat the above row structure for each project in your array -->
+    </tbody>
+  </table>
+  <div class="text-center text-gray-500 mt-4" *ngIf="projects.length === 0">No projects found.</div>
+</div>
+
+
+
+
+
+
+
+<!--
+<div>
+  <h1>Welcome to Chathub</h1>
+  <form [formGroup]="joinRoomForm">
+    <input formControlName="user" type="text" placeholder="Username"/> 
+    <input formControlName="room" type="text" placeholder="Room"/> 
+
+    <button [disabled]="joinRoomForm.invalid" (click)="joinRoom()" type="submit">Join</button><br/>
+    <button  (click)="createRoom()" type="submit">createRoom</button>
+  </form>
+  <input type="text" placeholder="title" [(ngModel)]="projectTitle"/>
+</div>-->

@@ -1,0 +1,14 @@
+.mainNav img {
+    width: 60px;
+    height: 53px;
+}
+
+.dropNav img {
+    width: 60px;
+    height: 53px;
+    margin-left: 10px;
+}
+
+.navbarColor{
+    background-color: rgb(64, 64, 64);
+}
